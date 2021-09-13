@@ -23,8 +23,8 @@
     "react/self-closing-comp": "off",
     "react/jsx-one-expression-per-line": "off",
     "react/jsx-closing-tag-location": "off",
-    "linebreak-style": ["error", "windows"],
+    "linebreak-style": ["error", "unix"],
     "jsx-a11y/label-has-associated-control": "off",
-    "jsx-a11y/label-has-for":"off"
+    "jsx-a11y/label-has-for": "off"
   }
 }
