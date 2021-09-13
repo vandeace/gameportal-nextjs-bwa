@@ -22,6 +22,9 @@
     "react/jsx-closing-bracket-location": "off",
     "react/self-closing-comp": "off",
     "react/jsx-one-expression-per-line": "off",
-    "react/jsx-closing-tag-location": "off"
+    "react/jsx-closing-tag-location": "off",
+    "linebreak-style": ["error", "windows"],
+    "jsx-a11y/label-has-associated-control": "off",
+    "jsx-a11y/label-has-for":"off"
   }
 }

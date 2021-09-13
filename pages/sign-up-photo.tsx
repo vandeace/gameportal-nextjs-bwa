@@ -67,7 +67,7 @@ export default function SignUpPhoto() {
 
               <a
                 className="btn btn-tnc text-lg color-palette-1 text-decoration-underline pt-15"
-                href="#"
+                href="/#"
                 role="button">Terms &
                 Conditions</a>
             </div>
