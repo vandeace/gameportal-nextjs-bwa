@@ -2,7 +2,7 @@
 /* eslint-disable import/extensions */
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import Image from 'next/image';
-import Auth from './auth';
+import Auth from './Auth';
 import Link from './Link';
 import ToggleMenu from './ToggleMenu';
 
