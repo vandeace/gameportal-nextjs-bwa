@@ -31,14 +31,6 @@
     "react/jsx-closing-tag-location": "off",
     "linebreak-style": 0,
     "jsx-a11y/label-has-associated-control": "off",
-    "jsx-a11y/label-has-for": "off",
-    "jsx-a11y/anchor-is-valid": 0
-  },
-  "settings": {
-    "import/resolver": {
-      "node": {
-        "extensions": [".js", ".jsx", ".ts", ".tsx"]
-      }
-    }
+    "jsx-a11y/label-has-for": "off"
   }
 }
